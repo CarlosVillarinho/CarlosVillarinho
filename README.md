@@ -2,7 +2,7 @@
 
 **`Estudante SI - FIAP`**
 
-Prazer, sou o Carlos, estudante do 2º ano de Sistemas de Informação na FIAP, apaixonado por tecnologia desde a infância. Busco constantemente aprimorar minhas habilidades como desenvolvedor para criar soluções eficientes e impactantes. Tenho grande interesse em resolver problemas e ajudar pessoas por meio da tecnologia. Estou em busca de uma oportunidade para aplicar meus conhecimentos, aprender com novos desafios e contribuir para a equipe.
+Prazer, sou o Carlos, estudante do 3º ano de Sistemas de Informação na FIAP, apaixonado por tecnologia desde a infância. Busco constantemente aprimorar minhas habilidades como desenvolvedor para criar soluções eficientes e impactantes. Tenho grande interesse em resolver problemas e ajudar pessoas por meio da tecnologia. Estou em busca de uma oportunidade para aplicar meus conhecimentos, aprender com novos desafios e contribuir para a equipe.
 
 ---
 
